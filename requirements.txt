@@ -1,0 +1,27 @@
+# 基礎・数値計算
+numpy
+pandas
+scipy
+
+# 可視化
+matplotlib
+seaborn
+plotly
+
+# 統計モデル・検定
+statsmodels
+
+# 機械学習・多変量解析
+scikit-learn
+
+# ベイズ統計
+pymc
+arviz
+
+# 因果推論
+dowhy
+econml
+
+# 作業環境
+jupyter
+ipykernel
